@@ -8,6 +8,7 @@ public class Program {
 
 		Scanner sc = new Scanner(System.in);
 
+		System.out.print("Matrizes: ");
 		System.out.print("Insert the amount of lines: ");
 		int lines = sc.nextInt();
 		System.out.print("Insert the amount of colums: ");
